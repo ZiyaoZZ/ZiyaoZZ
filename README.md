@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @ZiyaoZZ
-- 👀 I’m interested in Memory, attention and Lego
+- 👀 I’m interested in Memory, Attention and Lego
 - 🌱 I’m currently learning python
 - 💞️ I’m looking to collaborate on at least something
 - 📫 How to reach me ziyaoz@utexas.edu
